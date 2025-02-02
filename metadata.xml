@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Shattered</name>
+    <directory>shattered</directory>
+    <id>3088981540</id>
+    <description>Your spirit has been broken.
+
+IMPORTANT - Requires Repentogon to be installed
+
+The Shattered is a brand new modded character that comes with a normal and tainted variant. This also adds a brand new secret room item, the Shattered D6, that the normal Shattered starts with.
+
+Reroll items into a number of random pickups proportional to the quality of the item. The more you use it, the better it gets... There are a handful of items that are the exception to this, that will instead shatter into unique, predetermined pickups. This list of synergies is as follows:
+
+D6 - Spawns 3 dice shards
+D20 - Spawns 3 dice shards
+Diplopia - Spawns 2 Jera runes
+Magic Skin - Spawns 2 reverse lovers cards
+Blank Card - Spawns 3 ? cards
+Red Key - Spawns 6 cracked keys
+Mama Mega - Spawns 3 giga bombs
+The Clicker - Spawns 2 random character souls
+Midas's Touch - Spawns anywhere from 1 to 20 pennies
+
+The new character &quot;The Shattered&quot; starts with the shattered D6, however, his dreams are broken; his fate is sealed. You will not be able to swap out the shattered dice for any other active item.
+
+The tainted version of &quot;The Shattered&quot; does not start with any items and can pick up active items, however every other item you take will shatter. The new UI element will tell you whether you can take your next item or if it will shatter. A happy isaac face will display if you can take it, and an unhappy tainted shattered face if it will shatter. Play smart.
+
+Any issues or bugs, please let me know so I can look into them. This should also be compatible with most mods, as it does not change any base isaac files.</description>
+    <version>1.24</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+    <tag id="Player Characters"/>
+</metadata>

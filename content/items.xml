@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
+    <active id="0" name="Shattered D6" gfx="shattered_dice.png" description="Break your spirit." quality="3" maxcharges="6" />
+</items>

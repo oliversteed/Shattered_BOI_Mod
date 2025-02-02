@@ -1,0 +1,18 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Shattered"
+        skin="character_shattered.png"
+        nameimage="playername_shattered.png"
+        hp="6"
+        portrait="playerportrait_shattered.png"
+        skinColor="-1"
+        birthright="More desolation"
+    />
+    <player name="BShattered"
+        skin="character_Bshattered.png"
+        nameimage="playername_shattered.png"
+        hp="6"
+        portrait="playerportrait_Bshattered.png"
+        skinColor="-1"
+        bSkinParent="Shattered"
+    />
+</players>
